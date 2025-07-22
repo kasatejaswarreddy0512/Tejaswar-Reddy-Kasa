@@ -19,7 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/tejaswar_reddy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kathisai065" height="30" width="40" /></a>
-<a href="https://github.com/kasatejaswarreddy0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saireddy17" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/kasatejaswarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saireddy17" height="30" width="40" /></a>
+  <a href="https://github.com/kasatejaswarreddy0512" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-username" height="30" width="40" />
+</a>
+
 <a href="https://www.instagram.com/kasa_reddy_0512/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_reddy_kathi" height="30" width="40" /></a>
 </p>
 
