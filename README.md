@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning *Full Stack JAVA Developer , UI Technologie , Oracles , Testing*
 
-- 📫 How to reach me *malepatisivasaireddy@gmail.com*
+- 📫 How to reach me *kasatejaswar.reddy64@gmail.com*
   
-- 🤝  I'm open to collaborating on java,Servlet,JSP,UI Technologie,Oracle,Testing.
+- 🤝  I'm open to collaborating on Java, Spring Boot, Microservices, JDBC, Hibernate, MySQL, HTML, CSS, JavaScript, React, Servlet.
   
 - ⚡  exploring new things
 
